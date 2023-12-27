@@ -1,0 +1,14 @@
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\bin\Debug\net7.0\Block_FExam.exe
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\bin\Debug\net7.0\Block_FExam.deps.json
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\bin\Debug\net7.0\Block_FExam.runtimeconfig.json
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\bin\Debug\net7.0\Block_FExam.dll
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\bin\Debug\net7.0\Block_FExam.pdb
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.AssemblyInfoInputs.cache
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.AssemblyInfo.cs
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.dll
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\refint\Block_FExam.dll
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.pdb
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\Block_FExam.genruntimeconfig.cache
+C:\Users\Alexey\programming\Geekbrains\Block_FExam\obj\Debug\net7.0\ref\Block_FExam.dll
