@@ -18,5 +18,7 @@
         Console.WriteLine(arr2[i]);
     }
 }
-string[] example = {"a","ab","abc","abcd"};
+
+string[] example = {"a","ab","abc","abcd",":-))"}; //Creating massive of strings
+
 Final(example);
